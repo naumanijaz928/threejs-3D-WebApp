@@ -1,4 +1,4 @@
-# React Threejs 3d website 1st Project 
+# React Threejs | Valtio | 3D website  1st Project 
 ## steps i followed 
 - [1] npm create vite@latest -- --template react client
 - [2] cd client
